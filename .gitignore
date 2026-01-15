@@ -1,0 +1,6 @@
+*.o
+*.out
+sniffer
+build/
+logs/
+.DS_Store
